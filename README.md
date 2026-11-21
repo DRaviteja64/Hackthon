@@ -10,7 +10,7 @@ A full-stack **Student Management System** built using React.js, Spring Boot, an
 - Secure API access.
 - Password encryption.
 - Role-based authorization.
-
+  
 ### 📊 Student Dashboard
 - Personalized student dashboard.
 - Overview of student activities.
